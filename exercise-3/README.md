@@ -9,3 +9,8 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# This is a heading about touch
+* this is our first bullet
+* `touch` creates a new file for us
+  * `touch` is pretty cool
