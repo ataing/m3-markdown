@@ -11,6 +11,9 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 See `complete` branch for answers.
 
 # This is a heading about touch
-* this is our first bullet
+* This is our first bullet
 * `touch` creates a new file for us
   * `touch` is pretty cool
+# This is Another Heading 
+* This is our second bullet 
+* `open` allows us to open a file 
